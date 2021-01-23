@@ -67,5 +67,3 @@ I expect exclude `src/thirdparty` folder from analyse (only discovering symbols 
 ```
 [OK] No errors
 ```
-
-I expect code analyse in `src/thirdparty` folder, but now is skipped.
